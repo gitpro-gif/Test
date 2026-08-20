@@ -1,0 +1,1 @@
+print("Both features are working")
